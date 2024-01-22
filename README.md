@@ -14,7 +14,7 @@ This exercise is with the purpose to get experience with the following two tasks
 * Perform a Basic Scan
 * Save Reports
 
-#PHASE ONE 
+# FIRST PHASE 
 
 From the Windows taskbar, click the Firefox icon.
 
